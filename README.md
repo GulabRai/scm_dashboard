@@ -1,5 +1,3 @@
-# scm_dashboard
-
 # 📊 Supply Chain Management Dashboard (Power BI)
 
 ## 📌 Project Overview
